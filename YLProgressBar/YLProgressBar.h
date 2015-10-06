@@ -140,7 +140,7 @@ typedef NS_ENUM (NSUInteger, YLProgressBarIndicatorTextDisplayMode)
  * UI_APPEARANCE_SELECTOR macros are not taken into account, that's why they
  * are commented.</em>
  */
-IB_DESIGNABLE @interface YLProgressBar : UIView
+@interface YLProgressBar : UIView
 
 #pragma mark Managing the Progress Bar
 /** @name Managing the Progress Bar */
